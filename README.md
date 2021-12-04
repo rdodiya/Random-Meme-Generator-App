@@ -21,13 +21,16 @@ You can download the app from this [link!](https://drive.google.com/file/d/1NtZ_
 - Random meme image generation
 - Fullscreen meme image view
 - Share memes with others
-
+- Dark Mode
+- Download Memes in phone storage 
+- Save memes in firebase
   
 ## Tech Stack
 
 - Java
 - XML
 - Third party libraries such as Retrofit and Glide are allowed.
+- Firebase Realtime Database  
 
 
 ## App screenshots
